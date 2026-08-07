@@ -1,0 +1,22 @@
+# Runtime data
+/data/*.json
+!/data/.gitkeep
+
+# Local configuration
+.env
+*.local
+
+# Build output
+/bin/
+/booking-os
+*.exe
+*.test
+*.out
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Logs
+*.log

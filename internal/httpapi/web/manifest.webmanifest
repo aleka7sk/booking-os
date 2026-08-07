@@ -1,0 +1,9 @@
+{
+  "name": "Booking OS",
+  "short_name": "Booking OS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f3ef",
+  "theme_color": "#101615",
+  "icons": [{"src":"/logo.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
